@@ -113,7 +113,7 @@ function gameLoop(pacman, ghosts)
     stopwatchDiff = stopwatchNow - stopwatchStart;
     min = Math.floor((stopwatchDiff / 1000) / 60);
     sec = Math.floor((stopwatchDiff / 1000) % 60);
-    ms = Math.floor((stopwatchDiff % 1000) / 10);
+    ms = Math.floor(stopwatchDiff % 1000;
     printme = min.toString() + ":" + sec.toString() + ":" + ms.toString();
     scoreTable.innerHTML = printme;
 }
