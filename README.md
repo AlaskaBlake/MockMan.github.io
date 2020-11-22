@@ -1,2 +1,2 @@
-# blcaldwell3.github.io
-Website link: https://blcaldwell3.github.io/
+# MockMan
+Website link: https://alaskablake.github.io/MockMan.github.io/
